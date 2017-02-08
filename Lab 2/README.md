@@ -1,5 +1,7 @@
 Lab2.c - The code file
-array.txt - Simple dungeon file provided for use with the compiled project
+
+array.txt - sample array file provided for use with the compiled project
+
 lab2.pdf - The project's assignment prompt
 
 This project will only compile and run on Linux.
