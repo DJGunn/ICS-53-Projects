@@ -3,5 +3,4 @@ lab3.pdf - The project's assignment prompt
 
 This project was written and run on Linux. It may function on windows, but it has not been tested.
 
-Project creates an artificial heap of 128 bytes and provides 6 functions that the user can use to manipulate, read, write, and free
-data to/from the heap on a byte-aligned level.
+Project creates an artificial heap of 128 bytes and provides 6 functions that the user can use to manipulate, read, write, and free data to/from the heap on a byte-aligned level.
