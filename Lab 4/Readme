@@ -1,0 +1,13 @@
+Lab4_client.c - Client code file
+Lab4_server.c - Server code file
+lab4.pdf - The project's assignment prompt
+
+This project was written for and run on Linux. It will not likely work on Windows without modification.
+
+Lab4_server.c creates a console based server that synchronous accepts and queues up to 10 clients. The server acts as a database which returns names associated with e-mail addresses that have been hard coded into it at the professor's request. Similarly at the professors request, this server does not introduce multi-threading, and so it cannot asynchronously accept multiple simultaneous connections (though it can queue them).
+
+Lab4_client.c creates a console based client that allows the user to send e-mail addresses to the server. The server then returns the name of the owner of said e-mail address, which is then printed on the console screen.
+
+Score Received:
+
+Lab 4 - 10/10 TA Comment: "Very nice and well documented code."
