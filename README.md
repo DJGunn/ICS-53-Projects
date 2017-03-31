@@ -6,6 +6,7 @@ Projects written in C and portable between windows/linux.
 Code contained within is my own original work.
 
 Grades Received:
+
 Lab 1 - 10/10
 
 Lab 2 - 10/10
